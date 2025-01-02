@@ -79,6 +79,8 @@
 
 See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
 
+https://ipa.aspy.dev/youtube/
+
 ## Features
 
 1. **[uYou](https://miro92.com/repo/depictions/?p=com.miro.uyou):** Enhance your YouTube experience.
